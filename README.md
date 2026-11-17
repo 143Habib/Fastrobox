@@ -1,4 +1,4 @@
-# Fastrobox
+# Fastrobox 1.O 2026
 
 Official version-controlled workspace for the Fastrobox hackathon project.
 
