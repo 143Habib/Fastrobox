@@ -1,4 +1,4 @@
-# Fastrobox
+# Fastrobox 1.O
 
 Official version-controlled workspace for the Fastrobox hackathon project.
 
